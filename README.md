@@ -26,6 +26,7 @@ git clone git@github.com:FlipRAM/diamond-c-sharp.git
 Após clonar, para executar
 
 ```
+cd diamond-c-sharp &&
 dotnet restore &&
 cd diamond &&
 dotnet run
